@@ -1,0 +1,59 @@
+Should i install this ?
+	Ganache
+	Truffle (Install with npm i truffle -g)
+	JavaScript for testing
+	Solidity for smart contract code
+
+
+Terminology:
+Node –  Nodes store data so that we can easily query the state of the blockchain
+	to get the data we need
+	
+	
+Block – A a group or a network of interconnected nodes are referred to as a block;
+	for example, a network of different Ethereum nodes is called the Ethereum blockchain
+	
+	
+Blockchain – a decentralized peer-to-peer network consisting of a series of blocks.
+	     The first block is usually called the genesis block, and each subsequent
+	     block has a reference to the block that came before it, with no central 
+	     authority, and each peer playing a role in keeping the chain alive and
+	     competing for what transactions to include in the next block
+	     
+	     
+Transactions – these are more or less instructions from one account to another that are
+ 	       signed in a cryptographical manner for the sake of security;
+ 	       transactions usually causea change in the state of the blockchain.
+ 	       
+RPC :-		Remote Procedure Call is a software communication protocol that one program 
+		can use to request a service from a program located in another computer on a
+		network without having to understand the network's details. RPC is used to 
+		call other processes on the remote systems like a local system.
+
+EVM :-  The Ethereum Virtual Machine (EVM) is a virtual component that is contained in every
+ 	Ethereum node and is able to execute bytecode for contracts.
+ 	Smart contracts are usually written in high-level languages like Solidity and are then 
+ 	converted into EVM bytecode.
+ 	
+ 	
+parentHash: It is simply the hash of a previous block.
+
+
+ABI :-  Application Binary Interface(ABI) in Ethereum Virtual Machine.
+	Blockchain | Smart Contracts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
